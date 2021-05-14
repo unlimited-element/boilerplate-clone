@@ -6,6 +6,7 @@
 	"version": "12.2.3",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
+		"moment": "2.14.0",
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
