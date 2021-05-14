@@ -1,7 +1,11 @@
 {
 	"author": "unlimited-element",
 	"description": "learning to manage packages with NPM via freeCodeCamp",
-	"keywords": [ "freecodecamp", "lesson", "npm" ],
+	"keywords": [
+		"freecodecamp",
+		"lesson",
+		"npm"
+	],
 	"license": "Apache license 2.0",
 	"version": "12.2.3",
 	"name": "fcc-learn-npm-package-json",
