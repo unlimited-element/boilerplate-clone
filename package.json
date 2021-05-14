@@ -3,6 +3,7 @@
 	"description": "learning to manage packages with NPM via freeCodeCamp",
 	"keywords": [ "freecodecamp", "lesson", "npm" ],
 	"license": "Apache license 2.0",
+	"version": "12.2.3",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
